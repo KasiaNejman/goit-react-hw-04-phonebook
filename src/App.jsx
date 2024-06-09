@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import React, { useState, useEffect } from "react";
 import "./index.css";
 import Phonebook from "./components/Phonebook/Phonebook";
@@ -61,3 +62,7 @@ const App = () => {
 };
 
 export default App;
+=======
+
+
+>>>>>>> Stashed changes
